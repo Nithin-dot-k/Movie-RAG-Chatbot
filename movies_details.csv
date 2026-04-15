@@ -1,0 +1,59 @@
+Movie_ID,Title,Year,Genre,Language,Director,Lead_Actor,Lead_Actress,ratings ,Duration (mins),Budget (Crores),Box_Office (Crores),OTT_Platform,Release_Type,Country,Awards,Status
+MOV001,Interstellar,2014,Sci-Fi / Drama,English,Christopher Nolan,Matthew McConaughey,Anne Hathaway,8.7,169,1100,4800,Amazon Prime,Theatrical,USA,Oscar - Best VFX,Classic
+MOV002,Inception,2010,Sci-Fi / Thriller,English,Christopher Nolan,Leonardo DiCaprio,Elliot Page,8.8,148,1600,7800,Netflix,Theatrical,USA,4 Oscars,Classic
+MOV003,The Dark Knight,2008,Action / Crime,English,Christopher Nolan,Christian Bale,Maggie Gyllenhaal,9,152,1850,10200,Amazon Prime,Theatrical,USA,2 Oscars,Classic
+MOV004,Avengers Endgame,2019,Action / Sci-Fi,English,Russo Brothers,Robert Downey Jr.,Scarlett Johansson,8.4,181,4500,22000,Disney+Hotstar,Theatrical,USA,None,Classic
+MOV005,Parasite,2019,Thriller / Drama,Korean,Bong Joon-ho,Song Kang-ho,Cho Yeo-jeong,8.5,132,1100,7000,Amazon Prime,Theatrical,South Korea,4 Oscars incl Best Picture,Classic
+MOV006,Oppenheimer,2023,Biography / Drama,English,Christopher Nolan,Cillian Murphy,Emily Blunt,8.9,180,5000,21000,Amazon Prime,Theatrical,USA,7 Oscars,Hit
+MOV007,Barbie,2023,Comedy / Fantasy,English,Greta Gerwig,Ryan Gosling,Margot Robbie,6.9,114,1450,12000,Max,Theatrical,USA,1 Oscar,Hit
+MOV008,Spider-Man No Way Home,2021,Action / Sci-Fi,English,Jon Watts,Tom Holland,Zendaya,8.2,148,3000,19000,Netflix,Theatrical,USA,None,Hit
+MOV009,Top Gun Maverick,2022,Action / Drama,English,Joseph Kosinski,Tom Cruise,Jennifer Connelly,8.3,130,2000,13800,Amazon Prime,Theatrical,USA,1 Oscar,Hit
+MOV010,The Batman,2022,Action / Crime,English,Matt Reeves,Robert Pattinson,Zoe Kravitz,7.8,176,2750,7700,Max,Theatrical,USA,None,Hit
+MOV011,KGF Chapter 2,2022,Action / Drama,Kannada,Prashanth Neel,Yash,Srinidhi Shetty,8.4,168,1000,12000,Amazon Prime,Theatrical,India,None,Blockbuster
+MOV012,RRR,2022,Action / Drama,Telugu,S. S. Rajamouli,Jr. NTR,Alia Bhatt,7.9,187,550,12000,Netflix,Theatrical,India,Oscar - Best Song,Blockbuster
+MOV013,Pushpa The Rise,2021,Action / Crime,Telugu,Sukumar,Allu Arjun,Rashmika Mandanna,7.6,179,200,3650,Amazon Prime,Theatrical,India,None,Hit
+MOV014,Vikram,2022,Action / Thriller,Tamil,Lokesh Kanagaraj,Kamal Haasan,N/A,7.8,174,150,4200,Disney+Hotstar,Theatrical,India,None,Blockbuster
+MOV015,Ponniyin Selvan 1,2022,Period / Drama,Tamil,Mani Ratnam,Vikram,Aishwarya Rai,7.5,167,500,5000,Amazon Prime,Theatrical,India,National Award,Hit
+MOV016,Jailer,2023,Action / Drama,Tamil,Nelson Dilipkumar,Rajinikanth,Tamannaah,6.8,168,200,6000,Netflix,Theatrical,India,None,Blockbuster
+MOV017,Leo,2023,Action / Thriller,Tamil,Lokesh Kanagaraj,Vijay,Trisha Krishnan,6.5,164,250,6200,Netflix,Theatrical,India,None,Hit
+MOV018,Jawan,2023,Action / Thriller,Hindi,Atlee,Shah Rukh Khan,Nayanthara,7.1,169,300,11000,Netflix,Theatrical,India,None,Blockbuster
+MOV019,Pathaan,2023,Action / Spy,Hindi,Siddharth Anand,Shah Rukh Khan,Deepika Padukone,5.9,146,250,10500,Amazon Prime,Theatrical,India,None,Blockbuster
+MOV020,Animal,2023,Action / Crime,Hindi,Sandeep Vanga,Ranbir Kapoor,Rashmika Mandanna,6.4,201,300,9000,Netflix,Theatrical,India,None,Hit
+MOV021,Kalki 2898 AD,2024,Sci-Fi / Action,Telugu,Nag Ashwin,Prabhas,Deepika Padukone,6.8,181,600,10000,Netflix,Theatrical,India,None,Hit
+MOV022,The Godfather,1972,Crime / Drama,English,Francis Ford Coppola,Marlon Brando,Diane Keaton,9.2,175,60,2700,Paramount+,Theatrical,USA,3 Oscars,Classic
+MOV023,Schindler's List,1993,Biography / Drama,English,Steven Spielberg,Liam Neeson,Embeth Davidtz,9,195,650,3200,Peacock,Theatrical,USA,7 Oscars,Classic
+MOV024,Forrest Gump,1994,Drama / Romance,English,Robert Zemeckis,Tom Hanks,Robin Wright,8.8,142,550,7300,Paramount+,Theatrical,USA,6 Oscars,Classic
+MOV025,The Shawshank Redemption,1994,Drama,English,Frank Darabont,Tim Robbins,N/A,9.3,142,160,240,Netflix,Theatrical,USA,None,Classic
+MOV026,Dune Part Two,2024,Sci-Fi / Adventure,English,Denis Villeneuve,Timothee Chalamet,Zendaya,8.5,166,1900,8700,Max,Theatrical,USA,None,Hit
+MOV027,Deadpool & Wolverine,2024,Action / Comedy,English,Shawn Levy,Ryan Reynolds,N/A,7.8,128,2800,13000,Disney+Hotstar,Theatrical,USA,None,Blockbuster
+MOV028,Inside Out 2,2024,Animation / Drama,English,Kelsey Mann,N/A,N/A,7.8,100,1500,16000,Disney+Hotstar,Theatrical,USA,None,Blockbuster
+MOV029,Alien Romulus,2024,Sci-Fi / Horror,English,Fede Alvarez,Cailee Spaeny,N/A,7.3,119,1400,4700,Disney+Hotstar,Theatrical,USA,None,Hit
+MOV030,Civil War,2024,Action / Drama,English,Alex Garland,Kirsten Dunst,N/A,7.3,109,800,3000,Amazon Prime,Theatrical,USA,None,Hit
+MOV031,Manjummel Boys,2024,Adventure / Thriller,Malayalam,Chidambaram,Soubin Shahir,N/A,8.6,137,15,24000,SonyLIV,Theatrical,India,None,Blockbuster
+MOV032,Premalu,2024,Romance / Comedy,Malayalam,Girish AD,Naslen,Mamitha Baiju,8.5,142,4,6500,SonyLIV,Theatrical,India,None,Blockbuster
+MOV033,Aavesham,2024,Action / Comedy,Malayalam,Jithu Madhavan,Fahadh Faasil,N/A,8.5,152,20,10000,Netflix,Theatrical,India,None,Blockbuster
+MOV034,The Great Indian Kitchen,2021,Drama,Malayalam,Jeo Baby,Nimisha Sajayan,Nimisha Sajayan,8.6,100,1,N/A,Amazon Prime,OTT Direct,India,Kerala State Award,Critically Acclaimed
+MOV035,Maharaja,2024,Action / Thriller,Tamil,Nithilan Swaminathan,Vijay Sethupathi,Anurag Kashyap,8.7,155,50,3500,Netflix,Theatrical,India,None,Hit
+MOV036,Raayan,2024,Action / Drama,Tamil,Dhanush,Dhanush,Dushara Vijayan,7.8,150,100,3200,Amazon Prime,Theatrical,India,None,Hit
+MOV037,Amaran,2024,Biography / War,Tamil,Rajkumar Periasamy,Sivakarthikeyan,Sai Pallavi,8.9,167,150,10000,Netflix,Theatrical,India,None,Blockbuster
+MOV038,Vettaiyan,2024,Action / Drama,Tamil,T.J. Gnanavel,Rajinikanth,Manju Warrier,6.5,170,200,4000,Netflix,Theatrical,India,None,Average
+MOV039,Lucky Baskhar,2024,Crime / Thriller,Telugu,Venky Atluri,Dulquer Salmaan,Meenakshi Chaudhary,8.5,157,60,5000,Amazon Prime,Theatrical,India,None,Hit
+MOV040,Devara,2024,Action / Drama,Telugu,Koratala Siva,Jr. NTR,Janhvi Kapoor,6.3,166,350,4500,Netflix,Theatrical,India,None,Average
+MOV041,The Substance,2024,Body Horror / Drama,English,Coralie Fargeat,Demi Moore,Margaret Qualley,7.5,141,800,3500,MUBI,Theatrical,France/USA,Cannes Award,Critically Acclaimed
+MOV042,Conclave,2024,Thriller / Drama,English,Edward Berger,Ralph Fiennes,Isabella Rossellini,7.4,120,1600,5700,Amazon Prime,Theatrical,USA,None,Hit
+MOV043,Emilia Perez,2024,Musical / Crime,Spanish,Jacques Audiard,Zoe Saldana,Karla Sofia Gascon,6.8,132,700,2000,Netflix,OTT Direct,France,4 Oscars nominated,Critically Acclaimed
+MOV044,Wicked,2024,Musical / Fantasy,English,Jon M. Chu,Jonathan Bailey,Cynthia Erivo,7.8,160,3000,7400,Peacock,Theatrical,USA,None,Hit
+MOV045,Moana 2,2024,Animation / Adventure,English,Dave Derrick Jr.,N/A,Auli'i Cravalho,7,100,2000,12000,Disney+Hotstar,Theatrical,USA,None,Hit
+MOV046,Gladiator II,2024,Action / Historical,English,Ridley Scott,Paul Mescal,Connie Nielsen,6.7,148,3000,4700,Paramount+,Theatrical,USA,None,Average
+MOV047,A Quiet Place Day One,2024,Horror / Sci-Fi,English,Michael Sarnoski,Joseph Quinn,Lupita Nyong'o,7,99,1200,3800,Paramount+,Theatrical,USA,None,Hit
+MOV048,Twisters,2024,Action / Disaster,English,Lee Isaac Chung,Glen Powell,Daisy Edgar-Jones,7.2,122,1400,5000,Peacock,Theatrical,USA,None,Hit
+MOV049,Furiosa,2024,Action / Sci-Fi,English,George Miller,Chris Hemsworth,Anya Taylor-Joy,7.7,148,3000,4500,Max,Theatrical,USA,None,Average
+MOV050,Kingdom of the Planet of the Apes,2024,Sci-Fi / Action,English,Wes Ball,Kevin Durand,Freya Allan,6.8,145,1600,4800,Disney+Hotstar,Theatrical,USA,None,Hit
+MOV051,Hit Man,2024,Crime / Comedy,English,Richard Linklater,Glen Powell,Adria Arjona,7.4,115,600,2000,Netflix,OTT Direct,USA,None,Hit
+MOV052,Rebel Ridge,2024,Action / Thriller,English,Jeremy Saulnier,Aaron Pierre,N/A,7.3,130,500,N/A,Netflix,OTT Direct,USA,None,Hit
+MOV053,I Saw the TV Glow,2024,Horror / Drama,English,Jane Schoenbrun,Justice Smith,Brigette Lundy-Paine,6.5,100,400,300,A24,Theatrical,USA,None,Critically Acclaimed
+MOV054,Longlegs,2024,Horror / Thriller,English,Osgood Perkins,Nicolas Cage,Maika Monroe,5.8,101,700,2800,Shudder,Theatrical,USA,None,Average
+MOV055,Trap,2024,Thriller / Horror,English,M. Night Shyamalan,Josh Hartnett,Ariel Donaher,6.3,105,900,3800,Max,Theatrical,USA,None,Average
+MOV056,Maharaj,2024,Biography / Drama,Hindi,Siddharth P. Malhotra,Junaid Khan,Jaideep Ahlawat,7.5,131,80,N/A,Netflix,OTT Direct,India,None,Hit
+MOV057,Do Patti,2024,Thriller / Mystery,Hindi,Shashanka Chaudhuri,Kriti Sanon,Kajol,6.6,126,50,N/A,Netflix,OTT Direct,India,None,Average
+MOV058,Stree 2,2024,Horror / Comedy,Hindi,Amar Kaushik,Rajkummar Rao,Shraddha Kapoor,7.2,135,100,6200,Amazon Prime,Theatrical,India,None,Blockbuster
