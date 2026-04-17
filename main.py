@@ -31,16 +31,16 @@ while True:
     if question == "q":
         break
 
-    # 🔥 Step 1: Retrieve documents
+    # Retrieve documents
     docs = retriever.invoke(question)
 
-    # 🔥 Step 2: Convert to text (VERY IMPORTANT)
+    # Convert to text (VERY IMPORTANT)
     context = "\n\n".join([doc.page_content for doc in docs])
 
-    # 🔥 Step 3: Send clean data to LLM
+    # Send clean data to LLM
     result = chain.invoke({
         "context": context,
         "question": question
     })
 
-    print("Answer:\n", result)
+    print(result)
